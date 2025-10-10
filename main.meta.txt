@@ -1,0 +1,21 @@
+URL: https://deltaclient.xyz/js/main.js
+Status: 200
+Content-Type: text/javascript
+File-Extension: js
+Size: 5552 bytes
+Scan-Time: 2025-10-10T11:08:19.528963
+Headers:
+{
+  "Server": "nginx/1.18.0",
+  "Date": "Fri, 10 Oct 2025 09:08:18 GMT",
+  "Content-Type": "text/javascript",
+  "Content-Length": "5552",
+  "Connection": "keep-alive",
+  "Set-Cookie": "__ddg8_=FQTizHFWSoMYzPed; Domain=.deltaclient.online; Path=/; Expires=Fri, 10-Oct-2025 09:28:18 GMT, __ddg10_=1760087298; Domain=.deltaclient.online; Path=/; Expires=Fri, 10-Oct-2025 09:28:18 GMT, __ddg9_=57.129.88.133; Domain=.deltaclient.online; Path=/; Expires=Fri, 10-Oct-2025 09:28:18 GMT, __ddg1_=sMZgTc3lGC84RZVIrdMj; Domain=.deltaclient.online; HttpOnly; Path=/; Expires=Sat, 10-Oct-2026 09:08:18 GMT",
+  "Content-Security-Policy": "upgrade-insecure-requests;",
+  "Vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+  "Last-Modified": "Fri, 02 May 2025 20:08:21 GMT",
+  "Accept-Ranges": "bytes",
+  "Age": "801784",
+  "DDG-Cache-Status": "HIT"
+}

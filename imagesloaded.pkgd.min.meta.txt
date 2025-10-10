@@ -1,0 +1,21 @@
+URL: https://deltaclient.xyz/vendor/imagesloaded/imagesloaded.pkgd.min.js
+Status: 200
+Content-Type: text/javascript
+File-Extension: js
+Size: 5485 bytes
+Scan-Time: 2025-10-10T11:08:36.185017
+Headers:
+{
+  "Server": "nginx/1.18.0",
+  "Date": "Fri, 10 Oct 2025 09:08:35 GMT",
+  "Content-Type": "text/javascript",
+  "Content-Length": "5485",
+  "Connection": "keep-alive",
+  "Set-Cookie": "__ddg8_=YQDXcCikxLMceEQm; Domain=.deltaclient.online; Path=/; Expires=Fri, 10-Oct-2025 09:28:35 GMT, __ddg10_=1760087315; Domain=.deltaclient.online; Path=/; Expires=Fri, 10-Oct-2025 09:28:35 GMT, __ddg9_=57.129.88.133; Domain=.deltaclient.online; Path=/; Expires=Fri, 10-Oct-2025 09:28:35 GMT, __ddg1_=Lcahqb6IddrOm4rH66tM; Domain=.deltaclient.online; HttpOnly; Path=/; Expires=Sat, 10-Oct-2026 09:08:35 GMT",
+  "Content-Security-Policy": "upgrade-insecure-requests;",
+  "Vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+  "Last-Modified": "Fri, 02 May 2025 20:08:21 GMT",
+  "Accept-Ranges": "bytes",
+  "Age": "788900",
+  "DDG-Cache-Status": "HIT"
+}

@@ -1,0 +1,21 @@
+URL: https://deltaclient.xyz/vendor/bootstrap/css/bootstrap.min.css
+Status: 200
+Content-Type: text/css
+File-Extension: css
+Size: 232803 bytes
+Scan-Time: 2025-10-10T11:08:26.627616
+Headers:
+{
+  "Server": "nginx/1.18.0",
+  "Date": "Fri, 10 Oct 2025 09:08:25 GMT",
+  "Content-Type": "text/css",
+  "Content-Length": "232803",
+  "Connection": "keep-alive",
+  "Set-Cookie": "__ddg8_=TMyGK3akNH6eLy6k; Domain=.deltaclient.online; Path=/; Expires=Fri, 10-Oct-2025 09:28:25 GMT, __ddg10_=1760087305; Domain=.deltaclient.online; Path=/; Expires=Fri, 10-Oct-2025 09:28:25 GMT, __ddg9_=57.129.88.133; Domain=.deltaclient.online; Path=/; Expires=Fri, 10-Oct-2025 09:28:25 GMT, __ddg1_=86mlz6xlB8dafqhaIsMB; Domain=.deltaclient.online; HttpOnly; Path=/; Expires=Sat, 10-Oct-2026 09:08:25 GMT",
+  "Content-Security-Policy": "upgrade-insecure-requests;",
+  "Accept-Ranges": "bytes",
+  "Vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+  "Last-Modified": "Fri, 02 May 2025 20:08:21 GMT",
+  "Age": "339990",
+  "DDG-Cache-Status": "HIT"
+}

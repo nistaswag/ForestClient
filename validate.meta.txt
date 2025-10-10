@@ -1,0 +1,21 @@
+URL: https://deltaclient.xyz/vendor/php-email-form/validate.js
+Status: 200
+Content-Type: text/javascript
+File-Extension: js
+Size: 2734 bytes
+Scan-Time: 2025-10-10T11:08:25.174160
+Headers:
+{
+  "Server": "nginx/1.18.0",
+  "Date": "Fri, 10 Oct 2025 09:08:24 GMT",
+  "Content-Type": "text/javascript",
+  "Content-Length": "2734",
+  "Connection": "keep-alive",
+  "Set-Cookie": "__ddg8_=Hh0bczwj4RNTVjMe; Domain=.deltaclient.online; Path=/; Expires=Fri, 10-Oct-2025 09:28:24 GMT, __ddg10_=1760087304; Domain=.deltaclient.online; Path=/; Expires=Fri, 10-Oct-2025 09:28:24 GMT, __ddg9_=57.129.88.133; Domain=.deltaclient.online; Path=/; Expires=Fri, 10-Oct-2025 09:28:24 GMT, __ddg1_=9KhBlwRVbDiu2nk9eqbP; Domain=.deltaclient.online; HttpOnly; Path=/; Expires=Sat, 10-Oct-2026 09:08:24 GMT",
+  "Content-Security-Policy": "upgrade-insecure-requests;",
+  "Vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+  "Last-Modified": "Fri, 02 May 2025 20:08:21 GMT",
+  "Accept-Ranges": "bytes",
+  "Age": "824553",
+  "DDG-Cache-Status": "HIT"
+}
